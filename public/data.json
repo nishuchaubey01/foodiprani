@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "poha",
+    "type": "brakfast"
+  },
+  {
+    "id": 2,
+    "name": "oats",
+    "type": "braekfast"
+  },
+  {
+    "id": 3,
+    "name": "cheela",
+    "type": "brakfast"
+  },
+  {
+    "id": 4,
+    "name": "cornflakes",
+    "type": "brakfast"
+  },
+  {
+    "id": 5,
+    "name": "musely",
+    "type": "brakfast"
+  },
+  {
+    "id": 6,
+    "name": "aalopratha",
+    "type": "brakfast"
+  },
+  {
+    "id": 7,
+    "name": "tehari",
+    "type": "dinner"
+  },
+  {
+    "id": 8,
+    "name": " dal roti salad ",
+    "type": "dinner"
+  },
+  {
+    "id": 9,
+    "name": "paneer roti",
+    "type": "dinner"
+  },
+  {
+    "id": 10,
+    "name": "seasonal veg roti",
+    "type": "dinner"
+  },
+  {
+    "id": 11,
+    "name": "chawal dal papad salad anchar",
+    "type": "lunch"
+  },
+  {
+    "id": 12,
+    "name": "kuch khud se bhi soch lo",
+    "type": "dinner"
+  },
+  {
+    "id": 13,
+    "name": "sb mai hi btaun",
+    "type": "braekfast"
+  },
+  {
+    "id": 14,
+    "name": "rajma chawal salad",
+    "type": "lunch"
+  },
+  {
+    "id": 15,
+    "name": "kale chane  roti",
+    "type": "dinner"
+  },
+  {
+    "id": 16,
+    "name": "Biryani",
+    "type": "dinner"
+  },
+  {
+    "id": 17,
+    "name": "mushroom  roti",
+    "type": "dinner"
+  },
+  {
+    "id": 18,
+    "name": "dam aaloo zira rice+ roti",
+    "type": "dinner"
+  }
+]
